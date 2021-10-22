@@ -1,1 +1,1 @@
-print("FUCKING GIT")
+print("HARD to USE GIT")
